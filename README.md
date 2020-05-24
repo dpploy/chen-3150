@@ -1,5 +1,6 @@
 # ChEn-3150 Unit Operations Laboratory 
 
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/chen-3150/tree/master/notebooks/)
 
    + [University of Massachusetts Lowell](https://www.uml.edu/), Fall 2020
    + [Dept. of Chemical Engineering](https://www.uml.edu/Engineering/Chemical/) 
