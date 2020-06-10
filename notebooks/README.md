@@ -3,5 +3,6 @@
 ## (G) Physical raw data tables should be submitted just by one group member.
 ## (G) Safety check-in and checkout are reuired to be compeleted before and after the experimentation, respectively.
 ## For individual (I) assignments (Memos): Each person is required to atleast record 3 trials of data for their report.
-## (I) Observations, conclusions and recommendation are required to be completed by all the grou members.
+## (I) Observations, conclusions and recommendation are required to be completed by all the group members.
+
 
